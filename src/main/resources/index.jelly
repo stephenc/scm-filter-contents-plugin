@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides branch filters for SCM API based plugins that work based on the presence or absence of specific
+  file paths in the branch.
+</div>
